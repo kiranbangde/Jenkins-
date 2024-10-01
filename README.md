@@ -33,11 +33,19 @@ jenkins was originally devlop by sun microsystem.
 5. for jenkins java must be install in system because jenkin is written in java .
 6. Because of CI bugs are reported fastly and can be retified fast , so that the entired software devlopment get fast.
 
+##  Architecture of Jenkins .
+
 ## Workflow of jenkins 
 
-## What isartifactory ?
+## What is artifactory ?
 
-it is a repository where our final code is stored means ready to use code is store. 
+It is a repository where our final code is stored means ready to use code is store.  Used for future used . 
+
+## What are plugins ?
+
+Plugins are small  libraries that add new ability to jenkins and can provide integartion points to other tools .
+
+
 
 
 
