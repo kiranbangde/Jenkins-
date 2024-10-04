@@ -1,5 +1,9 @@
 # Jenkins -
 
+## What is the latest version of Jenkins ?
+
+The latest Jenkins version is 2.463, which was released weekly on June 18, 2024. This version requires Java 17 or newer.
+
 ## What is continuous interation and continuous delivery ?
 
 ### CONTINUOUS INTEGRATION --
