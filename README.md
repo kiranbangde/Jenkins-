@@ -32,6 +32,9 @@ Jenkins is an open source application written in Java. It is one of the most pop
 
 Jenkins is a simple, extensible, and user-friendly open source tool that provides CI services for application development.
 
+The concept of plugins makes Jenkins more attractive, easy to learn, and easy to use. There are various categories of plugins available such as Source code management,
+Slave launchers and controllers, Build triggers, Build tools, Build notifies, Build reports, other post-build actions.
+
 ### Jenkins is a continious integration tool .
 
 jenkins was originally devlop by sun microsystem.
