@@ -54,6 +54,13 @@ jenkins was originally devlop by sun microsystem.
 
 ## Workflow of jenkins 
 
+1. Developer commits chnages to the source code .
+2. Continous integration server pulls that code trigger a build.
+3. build application is then deployed on the testing server for testing.
+4. After testing the application , it is then deployed to the production server
+5. The concerned team are constantly notified about the build and test results.
+
+
 ## What is artifactory ?
 
 It is a repository where our final code is stored means ready to use code is store.  Used for future used . 
