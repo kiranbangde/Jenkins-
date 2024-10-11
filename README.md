@@ -15,6 +15,10 @@ Continuous integration most often refers to the build or integration stage of th
 (e.g. learning to integrate frequently). The key goals of continuous integration are to find and address bugs quicker, improve software quality, and reduce the time it takes to validate and 
 release new software updates .
 
+## Features of continuous integration --
+
+1. Fast delivery
+
 ### Continuous integration = continous build + continuous test
 
 ## Tools other than jenkins used in market --
@@ -23,7 +27,7 @@ release new software updates .
 
 1. BAmboo (Paid) (enterprise version)
 2. Travis CI (Paid)
-3. Build bot (Paid)
+3. Buildbot (Paid)
 4. Jenkins is a open source tool
 
 ## What is jenkins why it is most popular ?
