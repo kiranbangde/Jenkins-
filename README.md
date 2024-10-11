@@ -28,8 +28,9 @@ release new software updates .
 
 ## What is jenkins why it is most popular ?
 
-Jenkins is an open source application written in Java. It is one of the most popular
-continuous integration (CI) tools used to build and test different kinds of projects.
+Jenkins is an open source application written in Java. It is one of the most popular continuous integration (CI) tools used to build and test different kinds of projects.
+
+Jenkins is a simple, extensible, and user-friendly open source tool that provides CI services for application development.
 
 ### Jenkins is a continious integration tool .
 
