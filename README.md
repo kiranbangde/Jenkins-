@@ -8,6 +8,8 @@ The latest Jenkins version is 2.463, which was released weekly on June 18, 2024.
 
 ### CONTINUOUS INTEGRATION --
 
+CI is one of the most popular application development practices in recent times. Developers integrate bug fix,new feature development, or innovative functionality in code repository. The CI tool verifies the integration process with an automated build and automated test execution to detect issues with the current source of an application, and provide quick feedback.
+
 Continuous integration is a DevOps software development practice where developers regularly merge their code changes into a central repository, after which automated builds and tests are run.
 Continuous integration most often refers to the build or integration stage of the software release process and entails both an automation component (e.g. a CI or build service) and a cultural component 
 (e.g. learning to integrate frequently). The key goals of continuous integration are to find and address bugs quicker, improve software quality, and reduce the time it takes to validate and 
@@ -25,6 +27,9 @@ release new software updates .
 4. Jenkins is a open source tool
 
 ## What is jenkins why it is most popular ?
+
+Jenkins is an open source application written in Java. It is one of the most popular
+continuous integration (CI) tools used to build and test different kinds of projects.
 
 ### Jenkins is a continious integration tool .
 
