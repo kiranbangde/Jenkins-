@@ -50,7 +50,13 @@ jenkins was originally devlop by sun microsystem.
 5. for jenkins java must be install in system because jenkin is written in java .
 6. Because of CI bugs are reported fastly and can be retified fast , so that the entired software devlopment get fast.
 
-##  Architecture of Jenkins .
+## Distributed Architecture of Jenkins . ( Master and Slaves architecture )
+
+suppose some application required window platform and some require the linux platform for that we required the master and slaves architectures.
+
+Jenkins master will distribute its workload to the slaves. 
+
+Jenkins slaves are generally required to provide the desired environment. It works on basis of requests received fron jenkins master. 
 
 ## Workflow of jenkins 
 
