@@ -75,6 +75,11 @@ It is a repository where our final code is stored means ready to use code is sto
 
 Plugins are small  libraries that add new ability to jenkins and can provide integartion points to other tools .
 
+## what is pipeline ?
+
+data pipeline, is a set of data processing elements connected in series, where the output of one element is the input of the next one.
+
+![image](https://github.com/user-attachments/assets/efc139fe-a03a-491b-bf67-43afdb7c9f8a)
 
 
 
