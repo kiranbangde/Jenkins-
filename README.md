@@ -81,7 +81,8 @@ data pipeline, is a set of data processing elements connected in series, where t
 
 ![image](https://github.com/user-attachments/assets/efc139fe-a03a-491b-bf67-43afdb7c9f8a)
 
+## Where is our jenkins password store ?
 
-
+/var/lib/jenkins/secrets/initialadminpassword
 
 
