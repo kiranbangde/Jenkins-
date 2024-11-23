@@ -74,6 +74,8 @@ It is a repository where our final code is stored means ready to use code is sto
 ## What are plugins ?
 
 Plugins are small  libraries that add new ability to jenkins and can provide integartion points to other tools .
+Plugins in Jenkins are add-ons that extend the functionality of the Jenkins automation serve.
+Plugins help customize Jenkins to meet the needs of a user or organization. They can integrate with build tools, cloud providers, and analysis tools.
 
 ## what is pipeline ?
 
