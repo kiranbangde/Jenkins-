@@ -85,4 +85,8 @@ data pipeline, is a set of data processing elements connected in series, where t
 
 /var/lib/jenkins/secrets/initialadminpassword
 
+## What is job in jenkins ?
+
+A job in Jenkins is a set of tasks or processes that are defined and executed automatically to perform work. Jobs can include tasks like compiling source code, running tests, or deploying applications.
+
 
