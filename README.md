@@ -93,4 +93,13 @@ A job in Jenkins is a set of tasks or processes that are defined and executed au
 
 ## what is RBAC (ROLE BASE ACCESS CONTROL)?
 
+## What is trigger in jenkins ?
+
+A trigger in Jenkins is a feature that automates builds and deployments based on specific events or conditions. Triggers can be used to: 
+Initiate builds when changes are made to a repository 
+Trigger builds on a schedule
+
+Some popular triggers in Jenkins include: Git webhook, Poll SCM, Scheduled job, Remote triggers, and Build After other project are build.
+
+
 
