@@ -4,7 +4,9 @@
 
 The latest Jenkins version is 2.463, which was released weekly on June 18, 2024. This version requires Java 17 or newer.
 
-## What is continuous interation and continuous delivery ?
+## What is continuous interation ?
+
+### Continuous integration = continous build + continuous test
 
 ### CONTINUOUS INTEGRATION --
 
@@ -18,8 +20,22 @@ release new software updates .
 ## Features of continuous integration --
 
 1. Fast delivery
+2. Frequent Code Integration -- Developers integrate code frequently, reducing integration issues.
+3. Immediate Feedback -- Developers receive rapid feedback about the status of their code, allowing quick fixes if issues are found.
 
-### Continuous integration = continous build + continuous test
+## Benefits of Continuous Integration:
+
+### Early Bug Detection:
+Problems are caught early, preventing them from escalating.
+
+### Faster Development Cycle:
+Issues are fixed faster, leading to more efficient development.
+
+### Improved Collaboration:
+Frequent integrations encourage teamwork and communication.
+
+### Higher Code Quality:
+Automated testing and reviews improve the overall quality of the codebase.
 
 ## Tools other than jenkins used in market --
 
@@ -29,6 +45,8 @@ release new software updates .
 2. Travis CI (Paid)
 3. Buildbot (Paid)
 4. Jenkins is a open source tool
+5. Circle CI
+6. Github Actions 
 
 ## What is jenkins why it is most popular ?
 
