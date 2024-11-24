@@ -101,5 +101,7 @@ Trigger builds on a schedule
 
 Some popular triggers in Jenkins include: Git webhook, Poll SCM, Scheduled job, Remote triggers, and Build After other project are build.
 
+## WHAT IS WORKSPACE IN JENKINS ?
+
 
 
