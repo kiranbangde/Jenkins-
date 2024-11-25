@@ -103,7 +103,7 @@ Smaller, incremental changes reduce the likelihood of major issues.
 #### Increased Agility:
 Teams can respond to user feedback and market changes faster.
 
-## Differenve between continuous integration and continuous delivery ?
+## Differenve between continuous integration and continuous deployment ?
 
 #### Continuous Integration:
 
