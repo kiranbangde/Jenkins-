@@ -172,7 +172,7 @@ Plugins help customize Jenkins to meet the needs of a user or organization. They
 
 ## what is pipeline ?
 
-data pipeline, is a set of data processing elements connected in series, where the output of one element is the input of the next one.
+A pipeline in software development refers to a series of automated steps or processes designed to take code from development to production. Each stage in a pipeline performs a specific task, such as building code, running tests, or deploying an application, in a streamlined and efficient manner.
 
 ![image](https://github.com/user-attachments/assets/efc139fe-a03a-491b-bf67-43afdb7c9f8a)
 
