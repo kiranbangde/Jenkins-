@@ -4,6 +4,10 @@
 
 The latest Jenkins version is 2.463, which was released weekly on June 18, 2024. This version requires Java 17 or newer.
 
+## What is CI/CD?
+
+Use CI/CD to automate your software development workflows and deploy better quality code, more often. Using a continuous and iterative process to build, test, and deploy helps avoid bugs and code failures.
+
 ## What is continuous interation ?
 
 ### Continuous integration = continous build + continuous test
