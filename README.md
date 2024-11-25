@@ -80,6 +80,20 @@ Smaller, incremental changes reduce the likelihood of major issues.
 #### Increased Agility:
 Teams can respond to user feedback and market changes faster.
 
+## Differenve between continuous integration and continuous delivery ?
+
+#### Continuous Integration:
+
+1. A developer commits code.
+2. Automated tools compile the code and run unit tests.
+3. If tests pass, the code is merged into the main branch.
+
+#### Continuous Deployment:
+
+1. The CI process completes.
+2. Deployment to production happens automatically without any manual approval.
+3. Users can immediately interact with the latest changes.
+
 ## What is jenkins why it is most popular ?
 
 Jenkins is an open source application written in Java. It is one of the most popular continuous integration (CI) tools used to build and test different kinds of projects.
