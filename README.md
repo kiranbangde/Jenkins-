@@ -65,6 +65,16 @@ Automated testing and reviews improve the overall quality of the codebase.
 
 Continuous Delivery (CD) is a software development practice where code changes are automatically built, tested, and prepared for release to a production environment. It extends Continuous Integration (CI) by ensuring that the software is always in a deployable state, and deployment to production can be performed with minimal effort.
 
+OR
+
+Continuous delivery is a software development practice that works in conjunction with CI to automate the infrastructure provisioning and application release process.
+
+Once code has been tested and built as part of the CI process, CD takes over during the final stages to ensure it's packaged with everything it needs to deploy to any environment at any time. CD can cover everything from provisioning the infrastructure to deploying the application to the testing or production environment.
+
+With CD, the software is built so that it can be deployed to production at any time. Then you can trigger the deployments manually or move to continuous deployment, where deployments are automated as well.
+
+
+
 ### Key Features of Continuous Delivery:
 
 #### Automated Testing:
