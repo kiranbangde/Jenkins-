@@ -17,6 +17,15 @@ Continuous integration most often refers to the build or integration stage of th
 (e.g. learning to integrate frequently). The key goals of continuous integration are to find and address bugs quicker, improve software quality, and reduce the time it takes to validate and 
 release new software updates .
 
+OR 
+
+Continuous integration is the practice of integrating all your code changes into the main branch of a shared source code repository early and often, automatically testing each change when you commit or merge them, and automatically kicking off a build. With continuous integration, errors and security issues can be identified and fixed more easily, and much earlier in the development process.
+
+By merging changes frequently and triggering automatic testing and validation processes, you minimize the possibility of code conflict, even with multiple developers working on the same application. A secondary advantage is that you don't have to wait long for answers and can, if necessary, fix bugs and security issues while the topic is still fresh in your mind.
+
+Common code validation processes start with a static code analysis that verifies the quality of the code. Once the code passes the static tests, automated CI routines package and compile the code for further automated testing. CI processes should have a version control system that tracks changes so you know the version of the code used.
+
+
 ## Features of continuous integration --
 
 1. Fast delivery
@@ -93,6 +102,12 @@ Teams can respond to user feedback and market changes faster.
 1. The CI process completes.
 2. Deployment to production happens automatically without any manual approval.
 3. Users can immediately interact with the latest changes.
+
+
+Here’s a comparison of Continuous Integration (CI) and Continuous Deployment (CD) to clarify their differences:
+
+
+
 
 ## What is jenkins why it is most popular ?
 
