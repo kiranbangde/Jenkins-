@@ -38,3 +38,24 @@ OR
 5. Storage Issues:
 Inspect the disk usage of Jenkins, particularly in directories like $JENKINS_HOME/workspace and $JENKINS_HOME/jobs.
 Check if the disk is running out of space or is heavily fragmented.
+
+## Resolution: Optimize Jenkins Performance
+
+#### Upgrade Resources:
+Increase CPU cores and memory allocation for the Jenkins server. Ensure sufficient disk space and use SSDs for faster I/O.
+
+#### Optimize JVM Settings:
+Modify the JAVA_OPTS for better performance. For example:
+Copy code
+````
+JAVA_OPTS="-Xms2G -Xmx4G -XX:+UseG1GC -XX:+HeapDumpOnOutOfMemoryError"
+````
+Tune these values based on the server's available resources.
+
+#### Reduce Job Load:
+Limit the number of executors on the master node and distribute workloads to Jenkins agents.
+Use labels to control which jobs run on which nodes.
+
+#### Configure Job Builds:
+Use incremental builds instead of full builds where possible.
+Clear old build history or configure jobs to retain only recent builds.
