@@ -33,4 +33,8 @@ OR
 
 3. Disable unused plugins as some may consume significant resources. Update plugins to the latest versions since old versions might have performance bug.
 
-4. If you use an external database (e.g., MySQL), check its performance and query execution times. Ensure the database is adequately sized and indexed.   
+4. If you use an external database (e.g., MySQL), check its performance and query execution times. Ensure the database is adequately sized and indexed.
+
+5. Storage Issues:
+Inspect the disk usage of Jenkins, particularly in directories like $JENKINS_HOME/workspace and $JENKINS_HOME/jobs.
+Check if the disk is running out of space or is heavily fragmented.
